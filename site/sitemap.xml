@@ -6,110 +6,26 @@
     <lastmod>2026-05-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-    <image:image>
-      <image:loc>https://kreativartdesign.ro/og-cover.png</image:loc>
-      <image:title>Kreativ Art Design Studio - designer de interior Timișoara</image:title>
-      <image:caption>Studio de design interior și arhitectură în Timișoara - concept, randări 3D fotorealistice și coordonare pe șantier.</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://kreativartdesign.ro/images/bucatarie-render-zona-servire-accente-olive.jpg</image:loc>
-      <image:title>Render bucătărie - zonă de servire cu accente olive</image:title>
-      <image:caption>Bucătărie cu zonă de servire formală - accente olive și galben, proiect rezidențial Timișoara.</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://kreativartdesign.ro/images/living-open-plan-canapele-verzi-sage-timisoara.jpg</image:loc>
-      <image:title>Living open-plan cu canapele verzi sage</image:title>
-      <image:caption>Living open-plan cu canapele verzi și pereți sage - proiect rezidențial Timișoara.</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://kreativartdesign.ro/images/living-luxe-pereti-marmura-bucatarie-deschisa.jpg</image:loc>
-      <image:title>Living luxe cu pereți de marmură</image:title>
-      <image:caption>Living luxe cu pereți de marmură și bucătărie deschisă - case și vile.</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://kreativartdesign.ro/images/living-open-space-canapele-verzi-modulare.jpg</image:loc>
-      <image:title>Living open-space cu canapele modulare</image:title>
-      <image:caption>Living open-space cu canapele verzi modulare și ferestre înalte.</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://kreativartdesign.ro/images/living-dining-marmura-proiect-rezidential.jpg</image:loc>
-      <image:title>Living-dining cu marmură</image:title>
-      <image:caption>Living open-plan cu zonă de dining și marmură - proiect rezidențial Kreativ Art Design.</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://kreativartdesign.ro/images/baie-pereti-olive-travertin-lavoar-verde.jpg</image:loc>
-      <image:title>Baie cu pereți olive și travertin</image:title>
-      <image:caption>Baie cu pereți olive, finisaje travertin și lavoar verde - design interior Timișoara.</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://kreativartdesign.ro/images/home-office-biblioteca-mobilier-comanda.jpg</image:loc>
-      <image:title>Home-office cu bibliotecă</image:title>
-      <image:caption>Home-office cu bibliotecă pe perete și mobilier la comandă.</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://kreativartdesign.ro/images/studio-lucru-mobilier-deschis-culoare.jpg</image:loc>
-      <image:title>Studio de lucru cu mobilier deschis</image:title>
-      <image:caption>Studio de lucru compact cu mobilier deschis la culoare - birouri Timișoara.</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://kreativartdesign.ro/images/bucatarie-apartament-zona-dining.jpg</image:loc>
-      <image:title>Bucătărie de apartament cu zonă de dining</image:title>
-      <image:caption>Apartament - bucătărie cu zonă de dining, design interior rezidențial.</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://kreativartdesign.ro/images/bucatarie-cabinete-albastru-pastel-masa-rotunda.jpg</image:loc>
-      <image:title>Bucătărie cu cabinete pastel</image:title>
-      <image:caption>Bucătărie cu cabinete albastru-pastel și masă rotundă - amenajare apartament.</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://kreativartdesign.ro/images/dormitor-matrimonial-accente-roz-panou-texturat.jpg</image:loc>
-      <image:title>Dormitor matrimonial cu panou texturat</image:title>
-      <image:caption>Dormitor matrimonial cu accente roz și panou texturat - design rezidențial.</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://kreativartdesign.ro/images/dormitor-copil-pat-etajat-mural-spatial.jpg</image:loc>
-      <image:title>Dormitor copil cu mural spațial</image:title>
-      <image:caption>Dormitor copil cu pat etajat și mural cu temă spațială - amenajări pentru familie.</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://kreativartdesign.ro/images/dormitor-baie-integrata-perete-sticla.jpg</image:loc>
-      <image:title>Dormitor cu baie integrată</image:title>
-      <image:caption>Dormitor cu baie integrată în spatele unui perete de sticlă - proiect case și vile.</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://kreativartdesign.ro/images/dormitor-principal-dressing-pat-tapitat.jpg</image:loc>
-      <image:title>Dormitor principal cu dressing</image:title>
-      <image:caption>Dormitor principal cu dressing și pat tapițat - design interior premium.</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://kreativartdesign.ro/images/foisor-exterior-lemn-gradina.jpg</image:loc>
-      <image:title>Foișor exterior cu lemn</image:title>
-      <image:caption>Foișor amenajat în lemn natural, integrat în grădină - proiect rezidențial.</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://kreativartdesign.ro/images/foisor-banca-lemn-amenajare-curte.jpg</image:loc>
-      <image:title>Foișor cu bancă din lemn</image:title>
-      <image:caption>Foișor cu bancă din lemn - amenajare curte și grădină.</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://kreativartdesign.ro/images/bistro-vedere-ansamblu-mobilier-comercial.jpg</image:loc>
-      <image:title>Bistro - vedere de ansamblu</image:title>
-      <image:caption>Bistro Timișoara - vedere de ansamblu cu mobilier comercial proiectat de Kreativ Art Design.</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://kreativartdesign.ro/images/bistro-zona-biblioteca-pendant-edison.jpg</image:loc>
-      <image:title>Bistro - zonă bibliotecă</image:title>
-      <image:caption>Bistro - zonă de bibliotecă cu pendant-uri Edison și mobilier vintage.</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://kreativartdesign.ro/images/bistro-zona-booth-chalkboard-banchete.jpg</image:loc>
-      <image:title>Bistro - zonă booth cu banchete</image:title>
-      <image:caption>Spațiu comercial bistro/cafenea - zonă de booth cu chalkboard și banchete.</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://kreativartdesign.ro/logo/kreativ-art-design-studio-logo.jpg</image:loc>
-      <image:title>Kreativ Art Design Studio - logo</image:title>
-      <image:caption>Logo Kreativ Art Design Studio - designer de interior Timișoara.</image:caption>
-    </image:image>
+    <image:image><image:loc>https://kreativartdesign.ro/og-cover.png</image:loc></image:image>
+    <image:image><image:loc>https://kreativartdesign.ro/images/bucatarie-render-zona-servire-accente-olive.jpg</image:loc></image:image>
+    <image:image><image:loc>https://kreativartdesign.ro/images/living-open-plan-canapele-verzi-sage-timisoara.jpg</image:loc></image:image>
+    <image:image><image:loc>https://kreativartdesign.ro/images/living-luxe-pereti-marmura-bucatarie-deschisa.jpg</image:loc></image:image>
+    <image:image><image:loc>https://kreativartdesign.ro/images/living-open-space-canapele-verzi-modulare.jpg</image:loc></image:image>
+    <image:image><image:loc>https://kreativartdesign.ro/images/living-dining-marmura-proiect-rezidential.jpg</image:loc></image:image>
+    <image:image><image:loc>https://kreativartdesign.ro/images/baie-pereti-olive-travertin-lavoar-verde.jpg</image:loc></image:image>
+    <image:image><image:loc>https://kreativartdesign.ro/images/home-office-biblioteca-mobilier-comanda.jpg</image:loc></image:image>
+    <image:image><image:loc>https://kreativartdesign.ro/images/studio-lucru-mobilier-deschis-culoare.jpg</image:loc></image:image>
+    <image:image><image:loc>https://kreativartdesign.ro/images/bucatarie-apartament-zona-dining.jpg</image:loc></image:image>
+    <image:image><image:loc>https://kreativartdesign.ro/images/bucatarie-cabinete-albastru-pastel-masa-rotunda.jpg</image:loc></image:image>
+    <image:image><image:loc>https://kreativartdesign.ro/images/dormitor-matrimonial-accente-roz-panou-texturat.jpg</image:loc></image:image>
+    <image:image><image:loc>https://kreativartdesign.ro/images/dormitor-copil-pat-etajat-mural-spatial.jpg</image:loc></image:image>
+    <image:image><image:loc>https://kreativartdesign.ro/images/dormitor-baie-integrata-perete-sticla.jpg</image:loc></image:image>
+    <image:image><image:loc>https://kreativartdesign.ro/images/dormitor-principal-dressing-pat-tapitat.jpg</image:loc></image:image>
+    <image:image><image:loc>https://kreativartdesign.ro/images/foisor-exterior-lemn-gradina.jpg</image:loc></image:image>
+    <image:image><image:loc>https://kreativartdesign.ro/images/foisor-banca-lemn-amenajare-curte.jpg</image:loc></image:image>
+    <image:image><image:loc>https://kreativartdesign.ro/images/bistro-vedere-ansamblu-mobilier-comercial.jpg</image:loc></image:image>
+    <image:image><image:loc>https://kreativartdesign.ro/images/bistro-zona-biblioteca-pendant-edison.jpg</image:loc></image:image>
+    <image:image><image:loc>https://kreativartdesign.ro/images/bistro-zona-booth-chalkboard-banchete.jpg</image:loc></image:image>
+    <image:image><image:loc>https://kreativartdesign.ro/logo/kreativ-art-design-studio-logo.jpg</image:loc></image:image>
   </url>
 </urlset>
