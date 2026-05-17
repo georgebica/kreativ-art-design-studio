@@ -1,5 +1,6 @@
 node_modules/
 .DS_Store
 business-info.txt
+test.txt
 _seo_convert.py
 _seo_rewrite.py
