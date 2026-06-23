@@ -3,7 +3,7 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://kreativartdesign.ro/</loc>
-    <lastmod>2026-05-17</lastmod>
+    <lastmod>2026-06-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image><image:loc>https://kreativartdesign.ro/og-cover.png</image:loc></image:image>
@@ -27,5 +27,13 @@
     <image:image><image:loc>https://kreativartdesign.ro/images/bistro-zona-biblioteca-pendant-edison.jpg</image:loc></image:image>
     <image:image><image:loc>https://kreativartdesign.ro/images/bistro-zona-booth-chalkboard-banchete.jpg</image:loc></image:image>
     <image:image><image:loc>https://kreativartdesign.ro/logo/kreativ-art-design-studio-logo.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://kreativartdesign.ro/design-interior-timisoara/</loc>
+    <lastmod>2026-06-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image><image:loc>https://kreativartdesign.ro/images/living-open-space-canapele-verzi-modulare.jpg</image:loc></image:image>
+    <image:image><image:loc>https://kreativartdesign.ro/images/living-dining-marmura-proiect-rezidential.jpg</image:loc></image:image>
   </url>
 </urlset>
