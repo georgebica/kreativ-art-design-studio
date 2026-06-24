@@ -4,3 +4,10 @@ business-info.txt
 test.txt
 _seo_convert.py
 _seo_rewrite.py
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+.env*
+!.env.example
