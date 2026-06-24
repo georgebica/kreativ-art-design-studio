@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ['./index.html'],
+  content: ['./index.html', './design-interior-timisoara/index.html'],
   theme: {
     extend: {
       colors: {
