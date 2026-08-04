@@ -36,4 +36,45 @@
     <image:image><image:loc>https://kreativartdesign.ro/images/living-open-space-canapele-verzi-modulare.jpg</image:loc></image:image>
     <image:image><image:loc>https://kreativartdesign.ro/images/living-dining-marmura-proiect-rezidential.jpg</image:loc></image:image>
   </url>
+  <url>
+    <loc>https://kreativartdesign.ro/blog/</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://kreativartdesign.ro/blog/cat-costa-amenajarea-unui-apartament-in-timisoara/</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://kreativartdesign.ro/images/living-dining-marmura-proiect-rezidential.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://kreativartdesign.ro/blog/amenajare-apartament-2-camere-timisoara/</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://kreativartdesign.ro/images/bucatarie-apartament-zona-dining.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://kreativartdesign.ro/blog/greseli-frecvente-amenajare-interioara/</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://kreativartdesign.ro/images/dormitor-matrimonial-accente-roz-panou-texturat.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://kreativartdesign.ro/blog/ce-contine-un-proiect-tehnic-2d/</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://kreativartdesign.ro/images/studio-lucru-mobilier-deschis-culoare.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://kreativartdesign.ro/blog/iluminat-interior-pe-trei-straturi/</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://kreativartdesign.ro/images/bistro-zona-biblioteca-pendant-edison.jpg</image:loc></image:image>
+  </url>
 </urlset>
