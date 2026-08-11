@@ -3,6 +3,20 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- Google Consent Mode v2 - default DENIED (ruleaza inaintea oricarui script de analiza) -->
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('consent', 'default', {
+    ad_storage: 'denied',
+    ad_user_data: 'denied',
+    ad_personalization: 'denied',
+    analytics_storage: 'denied',
+    functionality_storage: 'denied',
+    personalization_storage: 'denied',
+    security_storage: 'granted'
+  });
+</script>
 <title>Blog - Design interior si amenajari | Kreativ Art Design</title>
 <meta name="description" content="Articole despre design interior si amenajari: costuri, apartamente, greseli frecvente, proiect tehnic si iluminat. Ghiduri practice din Timisoara.">
 <meta name="robots" content="index,follow,max-image-preview:large">
@@ -339,6 +353,27 @@
     </div>
   </div>
 </section>
+<!-- ================= ANPC + POLITICI ================= -->
+<section class="bg-ink-700 border-t border-white/10">
+  <div class="max-w-7xl mx-auto px-4 md:px-6 py-8">
+    <div class="flex flex-wrap items-center justify-center gap-4">
+      <a href="https://anpc.ro/ce-este-sal/" target="_blank" rel="noreferrer noopener">
+        <img src="../images/anpc-sal.webp" alt="ANPC - Solu&#539;ionarea Alternativ&#259; a Litigiilor" width="250" height="62" loading="lazy" decoding="async" style="max-width:100%;height:auto">
+      </a>
+      <a href="https://consumer-redress.ec.europa.eu/index_ro" target="_blank" rel="noreferrer noopener">
+        <img src="../images/anpc-sol.webp" alt="ANPC - Solu&#539;ionarea Online a Litigiilor" width="250" height="62" loading="lazy" decoding="async" style="max-width:100%;height:auto">
+      </a>
+    </div>
+    <p class="text-center text-xs text-white/60 mt-6">
+      <a href="/politica-de-confidentialitate/" class="hover:text-rose-300 transition">Politica de Confiden&#539;ialitate</a>
+      <span class="text-white/30"> &middot; </span>
+      <a href="/politica-de-cookies/" class="hover:text-rose-300 transition">Politica de Cookies</a>
+      <span class="text-white/30"> &middot; </span>
+      <a href="#" data-gmc-open class="hover:text-rose-300 transition">Set&#259;ri cookies</a>
+    </p>
+  </div>
+</section>
+
 <footer class="bg-ink-700 text-white/70">
   <div class="max-w-7xl mx-auto px-4 md:px-6 py-16">
     <div class="grid lg:grid-cols-12 gap-10 mb-10">
@@ -387,11 +422,9 @@
   <a href="https://wa.me/40726726085" class="py-4 text-center text-sm display"><svg class="inline-block fill-current align-[-0.125em]" width="1em" height="1em" aria-hidden="true" focusable="false"><use href="#i-whatsapp"/></svg> WhatsApp</a>
 </div>
 <div class="md:hidden h-16"></div>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-HKGL1LG9NJ"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
+<!-- Google Analytics - blocat pana la consimtamant (categoria: statistici) -->
+<script type="text/plain" data-gmc-cat="analytics" async src="https://www.googletagmanager.com/gtag/js?id=G-HKGL1LG9NJ"></script>
+<script type="text/plain" data-gmc-cat="analytics">
   gtag('js', new Date());
   gtag('config', 'G-HKGL1LG9NJ');
 </script>
@@ -403,5 +436,6 @@
     els.forEach(function(el){io.observe(el)});
   })();
 </script>
+<script src="/gdpr.js" defer></script>
 </body>
 </html>
